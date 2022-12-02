@@ -1,0 +1,41 @@
+{
+  "name": "blockchain-todolist",
+  "version": "1.0.0",
+  "description": "A simple Blockchain todo list",
+  "main": "app.js",
+  "scripts": {
+    "dev": "lite-server",
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "console": "truffle console",
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FraWolf/first-blockchain-app.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "Ethereum",
+    "Smart",
+    "Contracts",
+    "Solidity",
+    "NodeJS"
+  ],
+  "author": "FraWolf <frawolf@outlook.it> (https://frawolf.it)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FraWolf/first-blockchain-app/issues"
+  },
+  "homepage": "https://github.com/FraWolf/first-blockchain-app#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "lite-server": "^2.6.1",
+    "truffle": "5.0.2",
+    "truffle-contract": "3.0.6",
+    "web3": "^1.8.1"
+  }
+}
