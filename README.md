@@ -110,7 +110,7 @@ it ('toggles tasks completion', async () => {
 Ganache Personal Blockchain
 Local development blockchain used to mimic the behavior of a public blockchain. Allows for deploying smart contracts, develop applications, and run tests.
 
-https://drive.google.com/file/d/1Mx0j4RyD0ckBmivWy-OmoA7duRLnaI70/view?usp=share_link
+https://drive.google.com/drive/u/0/folders/16ihvmFmgwUUGus8pRUEBW9qMsND6RTyo
 
 Metamask
 Google Chrome extension turning your browser into a blockchain browser. Metamask allows for managing our personal account when connecting to the blockchain, as well as manage ETH funds needed to pay for transactions.
